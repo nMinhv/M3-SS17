@@ -1,0 +1,2 @@
+User{id=1, userName='user1', passWord='user1pass', status=true}
+User{id=2, userName='user2', passWord='user2pass', status=true}
